@@ -1,6 +1,7 @@
 ## Hi I am Doruk,
 
-I am a computer science student at Hacettepe University.<br />(2/4)
+I am a computer science student at Hacettepe.<br />(2/4)
+
 
 ***All I know is that I know nothing. -Socrates***
 <!--
