@@ -8,8 +8,6 @@ I am a computer science student at Hacettepe.<br />(2/4)
 
 temporary-line1
 
-selamunaleyküm dünya!
-
 ***All I know is that I know nothing. -Socrates***
 <!--
 <p align="center">
